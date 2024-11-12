@@ -129,6 +129,7 @@ nav > h1 {
   display: flex;
   justify-content: flex-end;
   align-items: center;
+  margin-right: 20px;
 }
 .moreContent {
   padding: 30px;
